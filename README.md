@@ -20,7 +20,6 @@ Foi usado o class based views para criar um CRUD, automaticamente criando um for
 ## Front end
 - CSS
 - HTML
-- JS
 
 ## Framework
 - Django==5.1.3
