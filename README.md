@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeGTM/ProjetoFilmes/blob/main/LICENSE) 
 
 # Sobre o projeto
-Foi usado o class based views para criar um CRUD, automaticamente criando um formulario baseado no model, usando particamente List, Create, Update, Delete View
+Foi usado o class based views para criar um CRUD, automaticamente criando um formulario baseado no model, usando praticamente List, Create, Update, Delete View
 
 ## Layout web
 ![Web 1](https://github.com/GuilhermeGTM/crud/blob/main/demo/1.png)
